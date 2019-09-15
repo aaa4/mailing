@@ -5,4 +5,4 @@ Using from  java and html thymeleaf template. To send email set this props:
     spring.mail.password=${MAIL_MY_ROBOT_PASSWORD2}
     spring.mail.host = smtp.yourEmailProvider.itsDomain
 
-To pass some data to email template add it to the ctx instance of Context class in the sendHtmlMessage method.
+To pass some data to email template add it to the `ctx` instance of `Context` class in the `sendHtmlMessage` method.
