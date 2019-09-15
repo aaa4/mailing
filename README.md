@@ -1,4 +1,4 @@
-#Simple send mail
+#H1 Simple send mail
 Using from  java and html thymeleaf template. To send email set this props:
 
     spring.mail.username=${MAIL_MY_ROBOT_LOGIN2}
