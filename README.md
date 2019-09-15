@@ -3,7 +3,9 @@ To send email set this props:
 
 <code>
 spring.mail.username=${MAIL_MY_ROBOT_LOGIN2}
+  
 spring.mail.password=${MAIL_MY_ROBOT_PASSWORD2}
+
 spring.mail.host = smtp.yourEmailProvider.itsDomain`
 </code>
 
